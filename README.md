@@ -1,17 +1,13 @@
-# Weather_webApp
+# Weather_Web_App
 
 ## I used open weather API to fetch data 
 
 ### This  web project done in html,css ,js
 
-#### Web link 
+#### Live link
+ 
+https://weather-web-application-yash.netlify.app/
 
- https://sachinprajapati8604.github.io/Weather_webApp/
- 
- #### netlify link
- 
- https://spweather.netlify.app/
- 
 ### Features of the project.
 
 * It provide dynamic weather data like temp, min max temp etc.
