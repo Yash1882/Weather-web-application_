@@ -6,7 +6,7 @@
 
 #### Live link
  
-https://weather-web-application-yash.netlify.app/
+{https://weather-web-application-three.vercel.app/
 
 ### Features of the project.
 
